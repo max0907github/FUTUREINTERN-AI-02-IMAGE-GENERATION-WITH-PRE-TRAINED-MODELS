@@ -1,6 +1,6 @@
 ## IMAGE-GENERATION-WITH-PRE-TRAINED-MODELS 
 
-# Image Generation with Pre-Trained Models
+
 
 ## Overview
 This project implements image generation using pre-trained models based on a dataset of prompts and generated responses.
